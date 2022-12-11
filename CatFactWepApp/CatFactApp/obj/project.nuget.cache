@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AvOZ9u2b2S81j/AvVrqlra9xkfDW8ALrwh8CrNzcp/FXd8fU2CBXAylyQ/Eg2vNxxmUye2Ex946QynmeyvowEw==",
+  "success": true,
+  "projectFilePath": "D:\\Elabor8\\CatFactWepApp\\CatFactApp\\CatFactApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayad\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\jayad\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

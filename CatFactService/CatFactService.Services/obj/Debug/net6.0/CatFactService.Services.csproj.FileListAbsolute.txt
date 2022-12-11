@@ -1,0 +1,17 @@
+D:\Elabor8\CatFactService\CatFactService.Services\obj\Debug\net6.0\CatFactService.Services.csproj.AssemblyReference.cache
+D:\Elabor8\CatFactService\CatFactService.Services\obj\Debug\net6.0\CatFactService.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elabor8\CatFactService\CatFactService.Services\obj\Debug\net6.0\CatFactService.Services.AssemblyInfoInputs.cache
+D:\Elabor8\CatFactService\CatFactService.Services\obj\Debug\net6.0\CatFactService.Services.AssemblyInfo.cs
+D:\Elabor8\CatFactService\CatFactService.Services\obj\Debug\net6.0\CatFactService.Services.csproj.CoreCompileInputs.cache
+D:\Elabor8\CatFactService\CatFactService.Services\bin\Debug\net6.0\CatFactService.Services.deps.json
+D:\Elabor8\CatFactService\CatFactService.Services\bin\Debug\net6.0\CatFactService.Services.dll
+D:\Elabor8\CatFactService\CatFactService.Services\bin\Debug\net6.0\CatFactService.Services.pdb
+D:\Elabor8\CatFactService\CatFactService.Services\bin\Debug\net6.0\CatFactService.Data.dll
+D:\Elabor8\CatFactService\CatFactService.Services\bin\Debug\net6.0\CatFactService.Logic.dll
+D:\Elabor8\CatFactService\CatFactService.Services\bin\Debug\net6.0\CatFactService.Data.pdb
+D:\Elabor8\CatFactService\CatFactService.Services\bin\Debug\net6.0\CatFactService.Logic.pdb
+D:\Elabor8\CatFactService\CatFactService.Services\obj\Debug\net6.0\CatFactService.Services.csproj.CopyComplete
+D:\Elabor8\CatFactService\CatFactService.Services\obj\Debug\net6.0\CatFactService.Services.dll
+D:\Elabor8\CatFactService\CatFactService.Services\obj\Debug\net6.0\refint\CatFactService.Services.dll
+D:\Elabor8\CatFactService\CatFactService.Services\obj\Debug\net6.0\CatFactService.Services.pdb
+D:\Elabor8\CatFactService\CatFactService.Services\obj\Debug\net6.0\ref\CatFactService.Services.dll

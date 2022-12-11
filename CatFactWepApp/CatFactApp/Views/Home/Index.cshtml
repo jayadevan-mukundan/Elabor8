@@ -1,0 +1,55 @@
+﻿@model IEnumerable<CatFactDetailView>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Cat facts</h1>
+</div>
+<div>
+    <form method="post">
+        <button asp-action="GetCatFacts"> Get facts</button>
+        <button asp-action="GetCatFactsSummary"> Download Summary</button>
+    </form>
+
+</div>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Fact
+                </th>
+                <th>
+                    Type
+                </th>
+                <th>
+                    User
+                </th>
+                <th>
+                    UpVotes
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Text)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Type)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.User.FullName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Votes)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

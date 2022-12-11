@@ -1,0 +1,4 @@
+1) Execute the database creation script in local sql server database ( SQLCMD mode in management studio)
+2) Open the appsettings.json from "..\CatFactService\CatFactService.Wep.Api\appsettings.json" and change the databae server in the connection string, keep the database name same.
+3) Run the CatFactService from the solution "..\CatFactService\CatFactService.sln"
+4) Run the wep app to consume the web api from "..\CatFactWepApp\CatFactWepApp.sln"

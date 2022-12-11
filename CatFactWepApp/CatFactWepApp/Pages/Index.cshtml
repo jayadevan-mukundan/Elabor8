@@ -1,0 +1,56 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Cat facts</h1>
+</div>
+<div>
+    <button asp-action="GetCatFacts"> Get facts</button>
+    <button asp-action="GetCatFacts"> Download csv</button>
+</div>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Fact
+                </th>
+                <th>
+                    Type
+                </th>
+                <th>
+                    User
+                </th>
+                <th>
+                    UpVotes
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.catFactList)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Text)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Type)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.User.FirstName + ' ' + item.User.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Votes)
+                    </td>
+                    <td>
+                        <a asp-page="./View" asp-route-id="@item.CatFactId">View</a> |
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

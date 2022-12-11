@@ -1,0 +1,6 @@
+D:\Elabor8\CatFactService\CatFactService.Database\bin\Debug\CatFactService.Database.dacpac
+D:\Elabor8\CatFactService\CatFactService.Database\bin\Debug\CatFactService.Database.dll
+D:\Elabor8\CatFactService\CatFactService.Database\bin\Debug\CatFactService.Database.pdb
+D:\Elabor8\CatFactService\CatFactService.Database\obj\Debug\CatFactService.Database.sqlproj.AssemblyReference.cache
+D:\Elabor8\CatFactService\CatFactService.Database\obj\Debug\CatFactService.Database.dll
+D:\Elabor8\CatFactService\CatFactService.Database\obj\Debug\CatFactService.Database.pdb

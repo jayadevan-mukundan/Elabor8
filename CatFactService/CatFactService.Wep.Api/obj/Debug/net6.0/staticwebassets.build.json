@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "56AploGmjKmcT5ZvW1hGH9dKM4lPlvEO+gYPnWjNPo4=",
+  "Source": "CatFactService.Wep.Api",
+  "BasePath": "_content/CatFactService.Wep.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

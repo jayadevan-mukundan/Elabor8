@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[CatFacts] (Table)
+       [dbo].[Sources] (Table)
+       [dbo].[Types] (Table)
+       [dbo].[Users] (Table)
+       [dbo].[DF_CatFact_Deleted] (Default Constraint)
+       [dbo].[FK_CatFacts_Sources] (Foreign Key)
+       [dbo].[FK_CatFacts_Types] (Foreign Key)
+       [dbo].[FK_CatFacts_Users] (Foreign Key)
+
+** Supporting actions

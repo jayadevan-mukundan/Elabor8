@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ub9FJ6YjZ7Wy2s6cdD5y4ISIf+DdSMmGH6lkaOMvE6EYzgsaVxy7Wn8bN15fqs6xoO7HFomsMmKwf/jRnQKuBA==",
+  "success": true,
+  "projectFilePath": "D:\\Elabor8\\CatFactWepApp\\CatFactWepApp\\CatFactWepApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayad\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
